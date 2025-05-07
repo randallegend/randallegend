@@ -91,8 +91,8 @@ STI College Lucena | *2021 – 2025*
 
 ## 📊 GitHub Stats
 
-![Randall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RandallOTan&show_icons=true&theme=radical)  
-![Randall's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RandallOTan)
+![Randall's GitHub Stats](https://github-readme-stats.vercel.app/api?username=randallegend&show_icons=true&theme=radical)  
+![Randall's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=randallegend)
 
 > 🔁 *Be sure to replace `RandallOTan` with your actual GitHub username.*
 
